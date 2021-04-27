@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.apolo92.numerosromanos.NumerosRomanosTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-04-27T23:20:08" hostname="DESKTOP-39OKSVA" time="0.035">
+<testsuite name="com.apolo92.numerosromanos.NumerosRomanosTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-04-27T23:43:04" hostname="DESKTOP-39OKSVA" time="0.059">
   <properties/>
-  <testcase name="pasar2Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
+  <testcase name="pasar2Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.002"/>
   <testcase name="pasar10Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar9Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar17Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
-  <testcase name="verificarRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.004"/>
+  <testcase name="verificarRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.037"/>
   <testcase name="pasar4Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
   <testcase name="pasar12Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="verificarDecimalesRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
-  <testcase name="verificarVeintenaNumeroRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.005"/>
+  <testcase name="verificarVeintenaNumeroRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar19Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
   <testcase name="verificarTreintenaNumeroRomanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
-  <testcase name="pasar6Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
+  <testcase name="pasar6Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar14Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
   <testcase name="pasar1Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
-  <testcase name="pasar8Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
+  <testcase name="pasar8Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
   <testcase name="pasar16Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
-  <testcase name="pasar3Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
+  <testcase name="pasar3Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar11Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar18Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
-  <testcase name="pasar5Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
-  <testcase name="pasar13Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
+  <testcase name="pasar5Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
+  <testcase name="pasar13Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <testcase name="pasar7Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
   <testcase name="pasar15Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
-  <testcase name="pasar20Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.0"/>
+  <testcase name="pasar20Aromanos" classname="com.apolo92.numerosromanos.NumerosRomanosTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
